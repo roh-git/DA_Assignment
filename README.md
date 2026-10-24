@@ -54,13 +54,7 @@ python -m pip install pandas matplotlib jupyterlab
 python -m jupyterlab
 ```
 
-현재 저장본은 첫 차트보다 아래에 Matplotlib import가 있습니다. **새 커널에서는 아래 코드를 먼저 실행한 뒤** 위에서부터 노트북을 실행합니다.
-
-```python
-import matplotlib.pyplot as plt
-```
-
-이 선행 import 조건으로 작성된 코드 셀 18개의 실행을 확인했습니다. import 없이 새 커널에서 전체 실행하면 첫 차트에서 `NameError: name 'plt' is not defined`가 발생합니다. 기존 작성 내용을 보존한 작업 저장본으로, import 순서 정리는 남은 항목입니다.
+노트북을 열고 위에서부터 순서대로 실행합니다.
 
 한글 차트는 `Malgun Gothic`을 사용합니다. 해당 폰트가 없는 환경에서는 사용 가능한 한글 폰트로 설정해야 합니다.
 
