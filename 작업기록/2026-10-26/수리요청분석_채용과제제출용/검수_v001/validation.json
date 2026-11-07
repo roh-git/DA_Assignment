@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "pages": 13,
+  "overflow": [],
+  "mismatch": [],
+  "bounds": [],
+  "raster_images": 0,
+  "native_charts": 2,
+  "fonts": [
+    "BCDEEE+Pretendard-Regular",
+    "BCDFEE+Paperlogy-6SemiBold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Pretendard-Bold",
+    "BCDJEE+Pretendard-Bold",
+    "BCDKEE+Paperlogy-6SemiBold"
+  ],
+  "visual_review": "13쪽 전체 렌더 검수 완료: 제목·본문·표·차트 라벨·페이지 번호 확인",
+  "latest_second_check": {
+    "status": "pass",
+    "pages": 13,
+    "pptx_sha256": "522c0a66c97a1a0a06fc9cae5aea910e29afd2e4e3077bcdb4962a668c39c33e",
+    "pdf_sha256": "080edaa55c166c6338570841636095ae7778eeb6b9ac1b4bde91513798a71179",
+    "version_latest_hash_match": true,
+    "text_reopen_match": true
+  }
+}

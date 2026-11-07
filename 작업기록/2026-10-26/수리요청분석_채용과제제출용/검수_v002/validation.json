@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "pages": 13,
+  "overflow": [],
+  "text_mismatch": [],
+  "shape_bounds": [],
+  "raster_images": 0,
+  "fonts": [
+    "BCDEEE+Pretendard-Regular",
+    "BCDFEE+Paperlogy-6SemiBold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Pretendard-Bold",
+    "BCDJEE+Pretendard-Bold"
+  ],
+  "visual_review": "13쪽 전체 렌더 검수 완료 / 추가 수정 5·10·13쪽 재검수 완료",
+  "latest_second_check": {
+    "status": "pass",
+    "pages": 13,
+    "pptx_pdf_text_match": true,
+    "version_latest_sha256_match": true,
+    "pptx_sha256": "a01afd24d458bf85560dfdc3fd1f136b08693dba5825ac855a382e318df4702e",
+    "pdf_sha256": "f55126500e4bc7bede1d023c8178542b57526ade01515f311620fdb816b01ef1"
+  },
+  "native_chart_values": [
+    {
+      "page": 9,
+      "series": [
+        [
+          39.0,
+          89.0,
+          63.0,
+          90.0,
+          58.0
+        ]
+      ]
+    },
+    {
+      "page": 10,
+      "series": [
+        [
+          11.6,
+          160.4,
+          71.4
+        ]
+      ]
+    }
+  ],
+  "checklist_required_items": "03 수행 주체·선별 설명 / 10 B·E·P 비교·표본 / 13 조사·수리 지표 및 최종 성과 반영"
+}

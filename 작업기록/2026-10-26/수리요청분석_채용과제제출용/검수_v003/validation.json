@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "pages": 13,
+  "overflow": [],
+  "text_mismatch": [],
+  "shape_bounds": [],
+  "raster_images": 0,
+  "fonts": [
+    "BCDEEE+Pretendard-Regular",
+    "BCDFEE+Paperlogy-6SemiBold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Pretendard-Bold",
+    "BCDJEE+Pretendard-Bold"
+  ],
+  "visual_review": "pending",
+  "latest_second_check": "pending"
+}

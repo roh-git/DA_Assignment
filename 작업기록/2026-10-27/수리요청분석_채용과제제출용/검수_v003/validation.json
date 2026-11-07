@@ -1,0 +1,42 @@
+﻿{
+    "version":  3,
+    "pages":  13,
+    "overflow":  [
+
+                 ],
+    "text_mismatch":  [
+
+                      ],
+    "shape_bounds":  [
+
+                     ],
+    "raster_images":  0,
+    "fonts":  [
+                  "BCDEEE+Pretendard-Regular",
+                  "BCDFEE+Paperlogy-6SemiBold",
+                  "BCDGEE+Paperlogy-6SemiBold",
+                  "BCDHEE+Pretendard-Regular",
+                  "BCDIEE+Pretendard-Bold",
+                  "BCDJEE+Pretendard-Bold"
+              ],
+    "visual_review":  "13쪽 전체 렌더 검수 완료 / 3·4쪽 영역 구분 및 내지 해석·주의 패널 확인 / 최종 6쪽 비중 막대 연결 간격 확인 완료",
+    "latest_second_check":  {
+                                "status":  "pass",
+                                "version_hash_match":  true,
+                                "text_reopen_match":  true,
+                                "charts":  [
+                                               [
+                                                   39.0,
+                                                   89.0,
+                                                   63.0,
+                                                   90.0,
+                                                   58.0
+                                               ],
+                                               [
+                                                   11.6,
+                                                   160.4,
+                                                   71.4
+                                               ]
+                                           ]
+                            }
+}

@@ -1,0 +1,22 @@
+{
+  "source_csv_sha256": "6e707d23909d74001d356e5411d2502560f55736530969a3cc4f6b619b5cad93",
+  "source_notebook_sha256": "98c8a3104bd4b586515fd992a41e8214f2d207d6ec59f74a27fe36206ef20c19",
+  "raw_events": 13262,
+  "cases": 1000,
+  "valid_task_pairs": 3151,
+  "general_time_cases": 339,
+  "reversed_pairs": 226,
+  "arrange_median_min": 4.0,
+  "arrange_p90_min": 404.8000000000004,
+  "whole_duration_comparison": {
+    "count": {
+      "false": 264,
+      "true": 75
+    },
+    "median": {
+      "false": 77.2,
+      "true": 78.2
+    }
+  },
+  "row_date_rule_matches": 860
+}

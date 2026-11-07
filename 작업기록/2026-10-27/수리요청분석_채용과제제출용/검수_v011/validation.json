@@ -1,0 +1,42 @@
+{
+  "version": 11,
+  "pages": 13,
+  "overflow": [],
+  "text_mismatch": [],
+  "shape_bounds": [],
+  "raster_images": 0,
+  "native_charts": 2,
+  "fonts": [
+    "BCDEEE+Pretendard-Bold",
+    "BCDFEE+Pretendard-Bold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Paperlogy-6SemiBold",
+    "BCDJEE+Pretendard-Regular",
+    "BCDKEE+Paperlogy-6SemiBold",
+    "BCDLEE+Paperlogy-6SemiBold"
+  ],
+  "latest_second_check": {
+    "status": "pass",
+    "version_hash_match": true,
+    "text_reopen_match": true,
+    "notebook_location_footer_verified": true,
+    "charts": [
+      [
+        39.0,
+        89.0,
+        63.0,
+        90.0,
+        58.0
+      ],
+      [
+        11.6,
+        160.4,
+        71.4
+      ]
+    ],
+    "pptx_sha256": "9949bef64241e5354f8b9c7ca1a107f727c18db9dfb69672b5b3401f84968fc4",
+    "pdf_sha256": "1b6f61be8890e137490314c80f446de5e61f39493c1b8647ac283dbb80be1ea0"
+  },
+  "visual_review": "전 슬라이드(2~13쪽) 하단 출처를 repair2_분석.ipynb 내 실제 섹션 번호·제목으로 일관되게 통일 및 실제 PDF 렌더 검수 완료 / 넘침 0·래스터 0"
+}
