@@ -1,0 +1,42 @@
+{
+  "version": 6,
+  "pages": 13,
+  "overflow": [],
+  "text_mismatch": [],
+  "shape_bounds": [],
+  "raster_images": 0,
+  "native_charts": 2,
+  "fonts": [
+    "BCDEEE+Pretendard-Bold",
+    "BCDFEE+Pretendard-Bold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Paperlogy-6SemiBold",
+    "BCDJEE+Pretendard-Regular",
+    "BCDKEE+Paperlogy-6SemiBold",
+    "BCDLEE+Paperlogy-6SemiBold"
+  ],
+  "latest_second_check": {
+    "status": "pass",
+    "version_hash_match": true,
+    "text_reopen_match": true,
+    "v006_checklist_verified": true,
+    "charts": [
+      [
+        39.0,
+        89.0,
+        63.0,
+        90.0,
+        58.0
+      ],
+      [
+        11.6,
+        160.4,
+        71.4
+      ]
+    ],
+    "pptx_sha256": "5189c90ed0b2d0e319a64c3a81b97c84d29e5d85b381f874d107d59cfc6ac234",
+    "pdf_sha256": "74c7e0ae1bc2f0d2fe10572c17f152613e2a22c8244dd4a30e4cc64c4f7861fd"
+  },
+  "visual_review": "전 13쪽 실제 PDF 렌더 및 줄바꿈(expected_lines == actual_lines) 전수 검수 완료 / 4·7·9·12·13쪽 및 2·3·5·6·11쪽 문구·줄바꿈·결론 강조 완수 / 넘침 0·래스터 0"
+}

@@ -1,0 +1,42 @@
+{
+  "version": 5,
+  "pages": 13,
+  "overflow": [],
+  "text_mismatch": [],
+  "shape_bounds": [],
+  "raster_images": 0,
+  "native_charts": 2,
+  "fonts": [
+    "BCDEEE+Pretendard-Bold",
+    "BCDFEE+Pretendard-Bold",
+    "BCDGEE+Paperlogy-6SemiBold",
+    "BCDHEE+Pretendard-Regular",
+    "BCDIEE+Paperlogy-6SemiBold",
+    "BCDJEE+Pretendard-Regular",
+    "BCDKEE+Paperlogy-6SemiBold",
+    "BCDLEE+Paperlogy-6SemiBold"
+  ],
+  "latest_second_check": {
+    "status": "pass",
+    "version_hash_match": true,
+    "text_reopen_match": true,
+    "checklist_verified": true,
+    "charts": [
+      [
+        39.0,
+        89.0,
+        63.0,
+        90.0,
+        58.0
+      ],
+      [
+        11.6,
+        160.4,
+        71.4
+      ]
+    ],
+    "pptx_sha256": "aa2917023760ae133ee3f477229a83fd5352fccb274b96dfc6a3e3b42e170808",
+    "pdf_sha256": "3613ff97653ffd8dfa409febcb113a87de646adb5e12400dc01f94564d942932"
+  },
+  "visual_review": "전 13쪽 실제 PDF 렌더 및 시트 검수 완료 / repair2_채용과제_PPT_v3_최종수정사항.md 전 항목(4·10·13쪽 중점 정리 및 하단 중복 제거·용어 통일) 반영 / 넘침 0·래스터 0"
+}

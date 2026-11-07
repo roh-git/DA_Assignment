@@ -1,0 +1,2 @@
+25 pages. Pages 9-11 rebuilt. Other page text unchanged. Content fit checked. Saved PDF reopened. Visual check completed on all 3 revised pages. Tables wrapped explicitly. Second reopen verified.
+[(113.49993896484375, 1.0), (73.820068359375, 1.0), (82.61993408203125, 1.0)]
